@@ -17,7 +17,7 @@ struct AFView: View {
                     }
                 }
             }
-            .navigationTitle("🍎 FrameWorks")
+            .navigationTitle("🍏 FrameWorks")
         }
         
     }
